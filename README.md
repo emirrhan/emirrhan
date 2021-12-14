@@ -41,7 +41,7 @@
 
 
 [![](https://img.shields.io/github/followers/emirrhan?style=social)](https://github.com/emirrhan)
-<align="left"> <img src="https://komarev.com/ghpvc/?username=emiirrhn" alt="emiirrhn" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emiirrhn" alt="emiirrhn" />
 
 
 
