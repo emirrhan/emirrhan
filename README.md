@@ -2,6 +2,10 @@
 
 <!--
 **emirrhan/emirrhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github istatistikleri]( https://github-readme-stats.vercel.app/api?emirrhan=yourusername&theme=midnight-purple&show_icons=true&count_private=true )
+
+![En İyi Diller Kartı](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrhan)
+
 
 Here are some ideas to get you started:
 
