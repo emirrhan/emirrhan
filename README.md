@@ -6,7 +6,7 @@
 ![En İyi Diller Kartı]( https://github-readme-stats.vercel.app/api/top-langs/?username=emirrhan&layout=compact )
 
 ![En İyi Diller Kartı]( https://github-readme-stats.vercel.app/api/top-langs/?username=emirrhan&hide=javascript,html )
-<!--
+
 **emirrhan/emirrhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h3 align="left">Software and tools</h3>
 <p>
@@ -18,7 +18,7 @@
 </p>
 
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
