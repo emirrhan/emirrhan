@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-## :mailbox: How to reach me :
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:emirhanergen1@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/emirhan-ergen-893a781b5/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>](https://www.instagram.com/emiirrhn/)
-
-[![](https://img.shields.io/github/followers/emirrhan?style=social)](https://github.com/emirrhan)
-
-
 
 ![Github istatistikleri]( https://github-readme-stats.vercel.app/api?username=emirrhan&theme=graywhite&show_icons=true&count_private=true )
 
@@ -17,7 +9,7 @@
 
 ![En İyi Diller Kartı]( https://github-readme-stats.vercel.app/api/top-langs/?username=emirrhan&hide=javascript,html )
 
-**emirrhan/emirrhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <h3 align="left">Software and tools</h3>
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -48,7 +40,15 @@
 <a href="https://www.jetbrains.com/ruby/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="30" height="30"/> </a> 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emiirrhn" alt="emiirrhn" /> </p>
+## :mailbox: How to reach me :
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:emirhanergen1@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/emirhan-ergen-893a781b5/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>](https://www.instagram.com/emiirrhn/)
 
+[![](https://img.shields.io/github/followers/emirrhan?style=social)](https://github.com/emirrhan)
+
+
+**emirrhan/emirrhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
