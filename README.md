@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Github istatistikleri]( https://github-readme-stats.vercel.app/api?emirrhan=yourusername&theme=midnight-purple&show_icons=true&count_private=true )
+![Github istatistikleri]( https://github-readme-stats.vercel.app/api?emirrhan=yourusername&theme=highcontrast&show_icons=true&count_private=true )
 
 ![En İyi Diller Kartı](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrhan)
 <!--
