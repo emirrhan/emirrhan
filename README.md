@@ -41,6 +41,8 @@
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:emirhanergen1@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/emirhan-ergen-893a781b5/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>](https://www.instagram.com/emiirrhn/)
+
+[![](https://img.shields.io/github/followers/emirrhan?style=social)](https://github.com/emirrhan)
 <!--
 Here are some ideas to get you started:
 
