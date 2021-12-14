@@ -3,12 +3,7 @@
 
 ![Github istatistikleri]( https://github-readme-stats.vercel.app/api?username=emirrhan&theme=graywhite&show_icons=true&count_private=true )
 
-![En İyi Diller Kartı](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrhan)
-
 ![En İyi Diller Kartı]( https://github-readme-stats.vercel.app/api/top-langs/?username=emirrhan&layout=compact )
-
-![En İyi Diller Kartı]( https://github-readme-stats.vercel.app/api/top-langs/?username=emirrhan&hide=javascript,html )
-
 
 <h3 align="left">Software and tools</h3>
 <p>
