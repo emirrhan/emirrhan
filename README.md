@@ -44,7 +44,7 @@
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>](https://www.instagram.com/emiirrhn/)
 
 [![](https://img.shields.io/github/followers/emirrhan?style=social)](https://github.com/emirrhan)
-<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -55,4 +55,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
