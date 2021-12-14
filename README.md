@@ -1,4 +1,14 @@
 ### Hi there 👋
+
+## :mailbox: How to reach me :
+[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:emirhanergen1@gmail.com)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/emirhan-ergen-893a781b5/)
+[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>](https://www.instagram.com/emiirrhn/)
+
+[![](https://img.shields.io/github/followers/emirrhan?style=social)](https://github.com/emirrhan)
+
+
+
 ![Github istatistikleri]( https://github-readme-stats.vercel.app/api?username=emirrhan&theme=graywhite&show_icons=true&count_private=true )
 
 ![En İyi Diller Kartı](https://github-readme-stats.vercel.app/api/top-langs/?username=emirrhan)
@@ -38,12 +48,7 @@
 <a href="https://www.jetbrains.com/ruby/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="30" height="30"/> </a> 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emiirrhn" alt="emiirrhn" /> </p>
-## :mailbox: How to reach me :
-[<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:emirhanergen1@gmail.com)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/emirhan-ergen-893a781b5/)
-[<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>](https://www.instagram.com/emiirrhn/)
 
-[![](https://img.shields.io/github/followers/emirrhan?style=social)](https://github.com/emirrhan)
 
 Here are some ideas to get you started:
 
