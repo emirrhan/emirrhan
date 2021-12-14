@@ -38,10 +38,10 @@
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:emirhanergen1@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/emirhan-ergen-893a781b5/)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>](https://www.instagram.com/emiirrhn/)
-<p>
-[![](https://img.shields.io/github/followers/emirrhan?style=social)](https://github.com/emirrhan)
 
-[<align="left"> <img src="https://komarev.com/ghpvc/?username=emiirrhn" alt="emiirrhn" />]
-</p>
+
+[![](https://img.shields.io/github/followers/emirrhan?style=social)](https://github.com/emirrhan)
+<align="left"> <img src="https://komarev.com/ghpvc/?username=emiirrhn" alt="emiirrhn" />
+
 
 
