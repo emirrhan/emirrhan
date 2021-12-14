@@ -37,6 +37,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> </a> 
 <a href="https://www.jetbrains.com/ruby/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="30" height="30"/> </a> 
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emiirrhn" alt="emiirrhn" /> </p>
 ## :mailbox: How to reach me :
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:emirhanergen1@gmail.com)
 [<img target="_blank" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/emirhan-ergen-893a781b5/)
